@@ -6,7 +6,7 @@ const nextConfig = {
     return [
       {
         source: "/",
-        destination: "https://superfighters.vercel.app/",
+        destination: "https://superfighters.vercel.app/profile",
         permanent: true,
         basePath: false,
       },
